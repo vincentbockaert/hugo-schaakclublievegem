@@ -3,7 +3,7 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 # theme = "blowfish"
-baseURL = "hugo-schaakclublievegem.pages.dev"
+baseURL = "beta.schaakclublievegem.be"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
