@@ -7,7 +7,7 @@
 We zijn een schaakclub gevestigd in Lievegem (vroeger Waarschoot), met een historie van meer dan 25 jaar.
 
 Onze club is eerst en vooral een recreatieve club voor zowel jong als oud waar iedereen plezier kan hebben en het spel kan leren. </br>
-Waar wacht je nog op, kom meespelen elke vrijdag vanaf 19u voor jeugd/junioren en vanaf 20u voor +16!
+Waar wacht je nog op, kom meespelen elke vrijdag vanaf 19u voor jeugd/junioren en vanaf 20u voor de volwassenen!
 
 ### Waar en wanneer? 
 
