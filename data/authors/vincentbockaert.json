@@ -1,0 +1,19 @@
+{
+    "name": "Vincent Bockaert",
+    "image": "img/avatars/vincentbockaert.jpg",
+    "bio": "Site Maintainer",
+    "social": [
+        {
+            "linkedin": "linkedin.com/in/vincent-b-b6291a142/"
+        },
+        {
+            "github": "https://github.com/vincentbockaert"
+        },
+        {
+            "gitlab": "https://gitlab.com/vincentbockaert"
+        },
+        {
+            "keybase": "https://keybase.io/vincentbockaert"
+        }
+    ]
+}
