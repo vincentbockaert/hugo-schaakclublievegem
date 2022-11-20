@@ -15,4 +15,4 @@ showAuthorsBadges : false
 
 **Indien u vragen hebt of geïnteresseerd bent kan u ons altijd contacteren via:**
 
-- **[Email](bockiechess@yahoo.com)**
+- **[Email](mailto:bockiechess@yahoo.com)**
