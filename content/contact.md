@@ -5,11 +5,11 @@ draft: false
 description: "Our contact page"
 tags: ["contact", "help", "info", "authors"]
 showDate: false
-showAuthor: false
+showAuthor: false # whether or not to show the default author
 showReadingTime: false
 showEdit: false
-authors:
-    - "vincentbockaert"
+# authors:
+#     - "vincentbockaert"
 showAuthorsBadges : false
 ---
 
