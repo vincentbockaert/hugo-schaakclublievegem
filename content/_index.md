@@ -1,4 +1,4 @@
-# Welkom WSV | Schaken in Lievegem
+# Welkom bij WSV | Schaakclub in Lievegem
 
 ## Over ons :monocle_face:
 
@@ -14,7 +14,7 @@ Waar wacht je nog op, kom meespelen elke vrijdag vanaf 19u voor jeugd/junioren e
 Lievegem, in de ***Vrije Lagere School, Toekomststraat 15, 9950 Lievegem*** . _(In de eetzaal)_ </br>
 Dit gaat (bijna) elke vrijdag door vanaf ***19u voor de jeugd en 20u voor de volwassenen***.
 
-### Wat kost? 
+### Wat kost dat? 
 
 De ***eerste 5 weken zijn compleet gratis***, daarna is 25 euro aan lidgeld vereist _(voor het jaar)_. </br>
 _Inschrijvingen vanaf januari tellen mee voor het lopende seizoen en ook het volgende seizoen._
