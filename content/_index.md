@@ -64,3 +64,5 @@ Een aantal voorbeelden van deze evenementen:
 * Een souper op het einde van jaar
 * Een 2-jaarlijks weekend
 * Een aantal sportevenementen (carting/muurklimmen) in de zomer
+
+
